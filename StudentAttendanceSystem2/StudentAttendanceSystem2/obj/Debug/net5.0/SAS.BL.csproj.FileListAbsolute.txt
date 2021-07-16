@@ -1,0 +1,12 @@
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\bin\Debug\net5.0\SAS.BL.deps.json
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\bin\Debug\net5.0\SAS.BL.dll
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\bin\Debug\net5.0\ref\SAS.BL.dll
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\bin\Debug\net5.0\SAS.BL.pdb
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.AssemblyInfoInputs.cache
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.AssemblyInfo.cs
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.dll
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\ref\SAS.BL.dll
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.pdb
+C:\Users\Darryl27\Downloads\Desktop\Attendance System 2\StudentAttendanceSystem2\StudentAttendanceSystem2\obj\Debug\net5.0\SAS.BL.csproj.AssemblyReference.cache

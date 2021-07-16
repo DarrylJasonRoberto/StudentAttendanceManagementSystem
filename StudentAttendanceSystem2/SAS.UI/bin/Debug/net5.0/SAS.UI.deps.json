@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SAS.UI/1.0.0": {
+        "dependencies": {
+          "SAS.BL": "1.0.0"
+        },
+        "runtime": {
+          "SAS.UI.dll": {}
+        }
+      },
+      "SAS.BL/1.0.0": {
+        "runtime": {
+          "SAS.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAS.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SAS.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
